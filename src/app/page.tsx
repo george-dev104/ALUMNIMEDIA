@@ -23,7 +23,7 @@ export default function Home() {
         {/* <TopBannerWidget /> */}
         <section className="relative p-4 lg:p-16">
           <div className="flex flex-col gap-6 w-fit pt-64 lg:pt-0">
-            <div>1111
+            <div>
               <Heading
                 className="text-4xl lg:text-5xl uppercase text-white font-bold"
                 text="Streaming in a"
