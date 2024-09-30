@@ -11,27 +11,27 @@ export default function AllShows() {
   const width = useViewportWidth();
 
   const slides = [
-    // {
-    //   href: "/channels/amngolf",
-    //   src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/3/banner-image-Ps4kh5r5UPiM3kWBRagGyYTlH97pt2.webp",
-    // },
-    // {
-    //   href: "/channels/amnbusiness",
-    //   src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/5/alumnibusinessnetwork-0nJBQD25VJTha44smq7E7TQsVdW6WZ.jpg",
-    // },
-    // {
-    //   href: "/channels/wfafootball",
-    //   src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/12/womenstacklefootball-iURPkAATo4Nwn2Pf8QB6RiiwSaoQZC.jpg",
-    // },
-    // {
-    //   href: "/channels/dcdivas",
-    //   src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/13/dcdivas-EBVus4FhdZUpATPZBJdFnoAsmz6Shd.jpg",
-    // },
+    {
+      href: "/channels/amngolf",
+      src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/3/banner-image-Ps4kh5r5UPiM3kWBRagGyYTlH97pt2.webp",
+    },
+    {
+      href: "/channels/amnbusiness",
+      src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/5/alumnibusinessnetwork-0nJBQD25VJTha44smq7E7TQsVdW6WZ.jpg",
+    },
+    {
+      href: "/channels/wfafootball",
+      src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/12/womenstacklefootball-iURPkAATo4Nwn2Pf8QB6RiiwSaoQZC.jpg",
+    },
+    {
+      href: "/channels/dcdivas",
+      src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/13/dcdivas-EBVus4FhdZUpATPZBJdFnoAsmz6Shd.jpg",
+    },
 
-    // {
-    //   href: "/channels/amnfootball",
-    //   src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/14/thefootballchannel-54VL43hWvCWthwDKYAFj8BUTludmNh.jpeg",
-    // },
+    {
+      href: "/channels/amnfootball",
+      src: "https://yqvp1h6cfzxiqmeb.public.blob.vercel-storage.com/channels/14/thefootballchannel-54VL43hWvCWthwDKYAFj8BUTludmNh.jpeg",
+    },
 
     {
       href: "/channels/gameonxoxo",
