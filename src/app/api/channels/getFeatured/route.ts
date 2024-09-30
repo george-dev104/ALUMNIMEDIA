@@ -4,7 +4,6 @@ import { PrismaClient } from "@prisma/client";
 const prisma: PrismaClient = new PrismaClient();
 
 export async function GET(request: NextRequest) {
-  console.log(request);
   try {
     const channels: any = await prisma.channel.findMany({
       where: {
