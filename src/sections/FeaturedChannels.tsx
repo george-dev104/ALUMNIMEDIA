@@ -26,6 +26,7 @@ interface FeaturedChannelsProps {
   bottomSpacer?: Boolean;
 }
 
+// Temporary Data from Networking
 const slides1 = [
   {
       "id": 3,
